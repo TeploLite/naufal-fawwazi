@@ -13,7 +13,7 @@ Hello 👋 welcome to my portfolio! This repository contains the source code for
 - Bootstrap: For building the user interface.
 
 
-## Screenshoot 🚀
+## Screenshots 🚀
 # Home Page 🖥️
 ![Home Page](assets/ss/home.jpg)
 # Project Page 🖥️
