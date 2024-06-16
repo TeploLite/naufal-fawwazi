@@ -20,3 +20,5 @@ Hello 👋 welcome to my portfolio! This repository contains the source code for
 ![Projects Page](assets/ss/projek.jpg)
 # Contact Page 🖥️
 ![Contact Page](assets/ss/kontak.jpg)
+
+Please star ⭐ this repo and follow me here on Github so that other can find this repository 💌.
