@@ -17,7 +17,7 @@ Hello 👋 welcome to my portfolio! This repository contains the source code for
 
 ## Screenshots 🚀
 
-Live Demo https://teplolite.github.io/naufal-fawwazi/
+Live Demo https://naufal-fawwazi.netlify.app/
 
 # Home Page 🖥️
 
